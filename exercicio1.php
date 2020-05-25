@@ -5,7 +5,7 @@
         <title> Exercício Somar - Quarentena </title>
     </head>
     <body>
-        <form action ="index.php" method="POST">
+        <form action ="exercicio1.php" method="POST">
         <?php
             if(empty($_POST)){
                 echo'<input type="number" name="num1" placeholder= "Digite um número..."/>+
